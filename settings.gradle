@@ -1,0 +1,2 @@
+rootProject.name='SortBox'
+include ':app'
